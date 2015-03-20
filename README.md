@@ -1,10 +1,6 @@
 # keyed-merge
 A Python 3 merge function which accepts a key argument.
 
-
-## Why? Heapq doesn't cut it
-The `heapq` module provides a `merge` function, but it 
-
 ## Installation
 To install, clone this repo and copy the `keyed_merge` directory into your project.
 
